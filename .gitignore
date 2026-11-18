@@ -1,0 +1,7 @@
+.DS_Store
+.pnpm-store/
+.env
+.next/
+coverage/
+dist/
+_site/
